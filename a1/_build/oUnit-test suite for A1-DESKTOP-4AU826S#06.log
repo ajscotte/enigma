@@ -1,0 +1,31 @@
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Start test test suite for A1:5:map_r_l normal.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Test test suite for A1:5:map_r_l normal is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: End test test suite for A1:5:map_r_l normal.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Start test test suite for A1:14:less than mod number.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Test test suite for A1:14:less than mod number is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: End test test suite for A1:14:less than mod number.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Start test test suite for A1:21:reflector B.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Test test suite for A1:21:reflector B is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: End test test suite for A1:21:reflector B.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Start test test suite for A1:25:Simple test no plugboard.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Test test suite for A1:25:Simple test no plugboard is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: End test test suite for A1:25:Simple test no plugboard.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Start test test suite for A1:32:Simple test3.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Test test suite for A1:32:Simple test3 is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: End test test suite for A1:32:Simple test3.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Start test test suite for A1:37:3 rotor 2 rotoation.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Test test suite for A1:37:3 rotor 2 rotoation exited with an error.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Failure("Unimplemented: Enigma.step") in test test suite for A1:37:3 rotor 2 rotoation.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Raised at Enigma.step in file "src/enigma.ml", line 145, characters 2-46
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Called from Dune__exe__Main.step_test.(fun) in file "test/main.ml", line 110, characters 31-44
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: 
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: End test test suite for A1:37:3 rotor 2 rotoation.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: Start test test suite for A1:42:Three rotors word 2.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Test test suite for A1:42:Three rotors word 2 exited with an error.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Failure("Unimplemented: Enigma.cipher") in test test suite for A1:42:Three rotors word 2.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Raised at Enigma.cipher in file "src/enigma.ml", line 151, characters 2-48
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Called from Dune__exe__Main.cipher_test.(fun) in file "test/main.ml", line 122, characters 31-58
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 E: 
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#06 I: End test test suite for A1:42:Three rotors word 2.

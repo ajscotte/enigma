@@ -1,0 +1,37 @@
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:0:index of A is 0.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Test test suite for A1:0:index of A is 0 is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:0:index of A is 0.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:6:map_r_l rotor 1.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Test test suite for A1:6:map_r_l rotor 1 is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:6:map_r_l rotor 1.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:9:map_r_l different wire1.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Test test suite for A1:9:map_r_l different wire1 is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:9:map_r_l different wire1.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:15:map_l_r simple test.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Test test suite for A1:15:map_l_r simple test is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:15:map_l_r simple test.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:20:Normal alphabete test.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Test test suite for A1:20:Normal alphabete test is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:20:Normal alphabete test.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:26:Simple test.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Test test suite for A1:26:Simple test is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:26:Simple test.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:31:Simple test2.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Test test suite for A1:31:Simple test2 is successful.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:31:Simple test2.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:38:3 rotor all rotate.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Test test suite for A1:38:3 rotor all rotate exited with an error.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Failure("Unimplemented: Enigma.step") in test test suite for A1:38:3 rotor all rotate.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Raised at Enigma.step in file "src/enigma.ml", line 145, characters 2-46
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Called from Dune__exe__Main.step_test.(fun) in file "test/main.ml", line 110, characters 31-44
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: 
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:38:3 rotor all rotate.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: Start test test suite for A1:41:Three rotors word 1.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Test test suite for A1:41:Three rotors word 1 exited with an error.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Failure("Unimplemented: Enigma.cipher") in test test suite for A1:41:Three rotors word 1.
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Raised at Enigma.cipher in file "src/enigma.ml", line 151, characters 2-48
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Called from Dune__exe__Main.cipher_test.(fun) in file "test/main.ml", line 122, characters 31-58
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 E: 
+2021-09-15T20:57:58+00:00 DESKTOP-4AU826S#01 I: End test test suite for A1:41:Three rotors word 1.
